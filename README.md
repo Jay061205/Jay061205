@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=6A9FB5&center=true&width=800&size=16&lines=Nothing+much+to+write+here,+but+nice+meeting+you.+Explore+my+GitHub.)](https://git.io/typing-svg)
 
 <p align="center">
-  
   <img align="top" src="https://nirzak-streak-stats.vercel.app/?user=Jay061205&theme=tokyonight&hide_border=false"/>&nbsp;&nbsp;
   <img align="top" src="https://github-contributor-stats.vercel.app/api?username=Jay061205&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
